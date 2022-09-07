@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">To Do</string>
+    <string name="what_to_do">What to do</string>
+    <string name="cancel">Cancel</string>
+    <string name="Create">Create</string>
+    <string-array name="priority">
+        <item>Low Urgency</item>
+        <item>Medium Urgency</item>
+        <item>Hight Urgency</item>
+    </string-array>
 </resources>
